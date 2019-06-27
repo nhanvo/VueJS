@@ -2,14 +2,16 @@ This is demo force from: https://github.com/codyseibert/vue-adonis-todo
 Youtube chanel: https://www.youtube.com/watch?v=dfEZlcPvez8
 Thank you very much codyseibert
 
-NOTE:
-    server:
-        - create file .evn copy from .evn.example
-        - Generate API_KEY: adonis key:generate
-        - run server: adonis serve --dev
-    client:
-        - install yarn: brew install yarn
-        - run client: yarn serve
+NOTE:<br/>
+    
+    server:<br/>
+        - create file .evn copy from .evn.example<br/>
+        - Generate API_KEY: adonis key:generate<br/>
+        - run server: adonis serve --dev<br/>
+    
+    client:<br/>
+        - install yarn: brew install yarn<br/>
+        - run client: yarn serve<br/>
     
     version:
         - node: v8.11.1
