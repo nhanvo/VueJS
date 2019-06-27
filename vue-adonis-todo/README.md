@@ -1,6 +1,6 @@
-This is demo force from: https://github.com/codyseibert/vue-adonis-todo
-Youtube chanel: https://www.youtube.com/watch?v=dfEZlcPvez8
-Thank you very much codyseibert
+This is demo force from: https://github.com/codyseibert/vue-adonis-todo<br/>
+Youtube chanel: https://www.youtube.com/watch?v=dfEZlcPvez8<br>
+Thank you very much codyseibert.
 
 NOTE:
 
